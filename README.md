@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![statistics](https://github.com/vcolantonio/github-stats/blob/master/generated/languages.svg)
+![repositories](https://github.com/vcolantonio/github-stats/blob/master/generated/overview.svg)
